@@ -1,0 +1,71 @@
+---
+title: "Introduction"
+format: html
+---
+
+## What is a systematic review?
+
+A systematic review (SR) is a literature review that involves systematically locating, appraising, and synthesising evidence from scientific studies to answer a defined research question based on pre-specified criteria.
+
+The methods of a systematic review (and meta-analysis) should be transparent and reproducible. This means that the methods are planned, conducted, and reported in a way that can be repeated by other research groups.
+
+## What is a meta-analysis?
+
+A meta-analysis is a method of combining quantitative results from individual studies identified through systematic review in an overall statistical analysis.
+
+## Clinical & preclinical reviews
+
+There are many differences between preclinical and clinical systematic reviews, which is why we developed this Wiki, specific to preclinical systematic review methodology.
+
++----------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|                            | Preclinical                                                                               | Clinical                                            |
++============================+===========================================================================================+=====================================================+
+| \# of included studies     | High                                                                                      | Low                                                 |
++----------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Sample size within studies | Low                                                                                       | High                                                |
++----------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Experimental design        | Variable                                                                                  | Consistent                                          |
++----------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Uses                       | -   Investigate translational failure                                                     | -   Explore heterogeneity e.g. clinical populations |
+|                            |                                                                                           |                                                     |
+|                            | -   Explore differences between studies (heterogeneity) e.g. internal & external validity | -   Inform later phase clinical studies             |
+|                            |                                                                                           |                                                     |
+|                            | <!-- -->                                                                                  | <!-- -->                                            |
+|                            |                                                                                           |                                                     |
+|                            | -   Inform future preclinical studies e.g. model selection                                | -   Inform clinical practice and guidelines         |
+|                            |                                                                                           |                                                     |
+|                            | <!-- -->                                                                                  |                                                     |
+|                            |                                                                                           |                                                     |
+|                            | -   Inform early phase clinical trials                                                    |                                                     |
+|                            |                                                                                           |                                                     |
+|                            | -   Explain discrepancies in preclinical vs. clinical trial results                       |                                                     |
+|                            |                                                                                           |                                                     |
+|                            | <!-- -->                                                                                  |                                                     |
+|                            |                                                                                           |                                                     |
+|                            | -   Inform 3Rs decisions                                                                  |                                                     |
++----------------------------+-------------------------------------------------------------------------------------------+-----------------------------------------------------+
+
+## Why perform preclinical SRs?
+
+There are many reasons to perform preclinical systematic reviews:
+
+-   To summarise evidence from multiple similar studies to allow for more accurate estimates of effect
+-   The methods used to find and select studies are transparent and reproducible, reducing bias and increasing the likeliness of producing reliable and accurate conclusions.
+-   Summarise findings from all available studies making information easier for the end-user to read and understand
+-   Analyse individual study quality to inform confidence in the results
+-   Quantitative synthesis of results (meta-analysis)
+-   Allow for evidence-based inferences
+
+<center>![](figs/evidence-triangle.png){#id .class width="50%" height="50%"}</center>
+
+<br>
+
+The results of preclinical systematic reviews can:
+
+-   Provide evidence to change research practice by identifying risks of bias in preclinical experiments
+-   Influence development of reporting guidelines and editorial policies
+-   Provide evidence to support reporting of positive, negative and neutral results through detection of publication bias
+-   Identify study design features that compromise potential clinical application
+-   Contribute to evidence-based clinical trial design
+
+<br>

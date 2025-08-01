@@ -1,0 +1,20 @@
+---
+title: "Interpretation & Publication"
+format: html
+---
+
+Once you have conducted your systematic review, and potentially also conducted a meta-analysis, it is time to tell the community what you found and ensure the findings from your review reach your audience.
+
+## GRADE Approach
+
+Be careful when interpreting the results; acknowledge sources of bias; consider heterogeneity, generalisability, and relevance.
+
+It may help to use the Preclinical Grade approach [Hooijmans et al., 2018](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187271){target="_blank"} to rate the certainty of the evidence of preclinical animal studies, in the context of therapeutic interventions.
+
+## Transparent Reporting
+
+Report your systematic review in a way that allows reproducibility of the results and future updating.
+
+We recommend following the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA-2020) Guidelines. The checklist can be found [here.](https://www.prisma-statement.org/prisma-2020-checklist){target="_blank"} In addition, we recommend using the PRISMA Flowchart to visualise the studies in your systematic review process. The PRISMA Flowchart template can be [found here.](https://www.prisma-statement.org/prisma-2020-flow-diagram){target="_blank"}
+
+![](figs/PRISMA.png)

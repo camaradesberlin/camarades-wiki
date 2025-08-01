@@ -1,0 +1,55 @@
+---
+title: "Tools for Systematic Review"
+format: html
+---
+
+We highly recommend using software and tools to help you along the way. We have mentioned many tools throughout this Wiki, here is a list of all of them:
+
+[SyRF](https://syrf.org.uk/){target="_blank"}, the Systematic Review Facility, is a free-to-use online platform to support your preclinical systematic review. Its features and auxiliary tools include:
+
+-   Deduplication of systematic searches [ASysD App](https://camarades.shinyapps.io/RDedup/){target="_blank"}
+-   Screening (title & abstract as well as full text)
+-   Data Annotation & Extraction tailored for animal experiments
+-   Meta-Analysis of data from SyRF [click here](https://camarades.shinyapps.io/meta-analysis-app/){target="_blank"}
+
+**Additional tools include:**
+
+-   Citation screening: [Rayyan](https://rayyan.qcri.org/welcome){target="_blank"} and [SysRev](https://sysrev.com/){target="_blank"}.
+-   Data extraction from graphs: [Adobe desktop ruler](https://helpx.adobe.com/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"} or [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/){target="_blank"}
+-   Search translation across databases: [Polyglot Search Translator](https://sr-accelerator.com/#/polyglot){target="_blank"}
+
+## Automated Tools for Systematic Reviews
+
+With the increasing complexity and volume of research, automated tools such as machine learning and generative AI are being explored to assist in systematic reviews. These tools can help with tasks like literature screening, data extraction, and summarisation. However, it is essential to use them with caution:
+
+-   **Support, Not Replace Human Efforts:** While these tools can improve efficiency, systematic reviews still require critical human judgment and expertise.
+-   **Validation is Key:** Any automated tool must be rigorously tested and validated within your specific field before being implemented.
+-   **Task-Specific Assistance:** Current AI-driven tools can aid in certain steps of the process but are not capable of conducting a full systematic review independently.
+
+If you are conducting a large systematic review and are interested in training a custom machine learning algorithm, [Contact us](mailto:camarades.berlin@charite.de) for more information.
+
+## Systematic Online Living Evidence Summaries (SOLES)
+
+Systematic Online Living Evidence Summaries (SOLES) provide a powerful framework for maintaining up-to-date, continuously evolving evidence in a given research domain. These platforms integrate automation, machine learning, and structured data management to streamline evidence synthesis and ensure that research teams always have access to the latest findings.
+
+Capabilities and Benefits:
+
+-   **Automated Data Collection & Screening:** Reduces the burden of manual searches and updates, ensuring efficiency and accuracy.
+
+-   **Living Evidence Updates:** Enables real-time or scheduled updates, keeping systematic reviews current without requiring full re-analysis.
+
+-   **Scalability Across Domains:** SOLES can be adapted to any disease area, making them valuable for both emerging fields and established research topics.
+
+-   **Enhanced Collaboration:** Facilitates seamless knowledge sharing among researchers, policymakers, and clinicians.
+
+-   **Improved Decision-Making:** Supports evidence-based policy and clinical practice by ensuring that the most recent and relevant data are accessible.
+
+For more details on SOLES, refer to the following sources:
+
+-   SOLES paper [Systematic Online Living Evidence Summaries](https://portlandpress.com/clinsci/article/137/10/773/233083/Systematic-online-living-evidence-summaries){target="_blank"}.
+
+-   SOLES applied to the Alzheimer's Disease field [Hair et al., 2025](https://www.sciencedirect.com/science/article/pii/S0165027024001547){target="_blank"}.
+
+-   Overview of Public SOLES project [SOLES Projects gitpage](https://camaradesuk.github.io/soles-projects/){target="_blank"}.
+
+If your team is interested in developing a SOLES for your research domain, [get in touch with us](mailto:camarades.berlin@charite.de) to explore potential collaborations.

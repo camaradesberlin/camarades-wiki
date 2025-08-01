@@ -1,0 +1,34 @@
+---
+title: "Quality Assessment"
+format: html
+---
+
+## Why assess study quality?
+
+Low methodological quality can affect internal validity and introduce bias into the results of primary studies. Internal validity refers to the extent to which study results reflect the true cause-effect of an intervention. Different types of bias can influence internal validity (e.g. selection, performance, detection, and attrition biases).
+
+**It is not impact. It is not novelty.**
+
+Bias in primary studies can lead to an over- or under-estimation of the true intervention effect in both primary studies and systematic reviews. It is important to consider the implications of study quality and validity for interpreting the results from your systematic review and it is often a good idea to incorporate a quality assessment section into your final report.
+
+Study quality characteristics which have been shown to impact the results of preclinical studies include whether animals were randomised to control or treatment groups, and if researchers were blinded to intervention allocation or exposure when assessing outcomes. Read more about allocation and blinding on the [NC3Rs Experimental Design Assistant website](https://eda.nc3rs.org.uk/experimental-design-allocation){target="_blank"}. <br>
+
+## Reporting quality
+
+You can use a reporting quality checklist on primary studies in your systematic review.
+
+-   The [CAMARADES Checklist](https://www.ahajournals.org/doi/pdf/10.1161/01.str.0000125719.25853.20){target="_blank"}
+-   [Nature Reporting Checklist](https://www.gene-quantification.de/checklist-for-life-sciences-articles.pdf){target="_blank"}. The operationalised checklist is available [here.](https://link.springer.com/article/10.1007/s11192-016-1964-8/tables/6){target="_blank"}
+
+## Risk of bias / methodological quality
+
+Use a Risk of Bias (RoB) tool to help you evaluate the methodological quality of a primary animal experiment. Tools that have been developed to assess bias and quality in preclinical studies include the [SYRCLE RoB tool](https://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/1471-2288-14-43){target="_blank"}.
+
+## RoB assessment to inform analysis
+
+The extent to which a study is at risk of bias can hugely impact the findings. Findings from your risk of bias assessment should inform the conclusions of your systematic review.
+
+-   Conduct sensitivity analysis (quantitatively using meta-analysis or qualitatively)
+-   Exclude studies at high risk of bias from the evidence synthesis (this should be done with **extreme caution** and prespecified in your protocol to avoid bias)
+-   Reach an overall conclusion for each outcome as to whether the synthesised result is at high risk of bias
+-   Use the overall conclusion to inform the summary assessment of certainty of the evidence using e.g. [GRADE approach](https://bestpractice.bmj.com/info/toolkit/learn-ebm/what-is-grade/){target="_blank"}

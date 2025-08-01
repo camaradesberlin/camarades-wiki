@@ -1,0 +1,61 @@
+---
+title: "Before You Start"
+format: html
+---
+
+There are a couple of things to check before you start your SR. Read more below.
+
+## Is it necessary?
+
+Consider the following before starting your SR:
+
+-   Does the question have contemporary relevance?
+-   Does the question have clinical importance or importance to informing animal experiment design?
+-   Is there currently variation in practice?
+-   Is there uncertainty and debate in the field?
+-   Informing design of definitive animal experiment trial
+
+## Has it been done before?
+
+Do a quick search on [PubMed](https://pubmed.ncbi.nlm.nih.gov/){target="_blank"} or the most commonly used bibliographic database in your field to check for published systematic reviews. We may also check preprint archives such as [bioRxiv](https://www.biorxiv.org/){target="_blank"}, [medRxiv](https://www.medrxiv.org/){target="_blank"} or [OSF](https://osf.io/){target="_blank"}, to see if a systematic review has been published as a preprint. Check for ongoing systematic reviews on [PROSPERO](https://www.crd.york.ac.uk/prospero/){target="_blank"}.
+
+Questions to ask regarding existing systematic reviews in the field include:
+
+-   Has the research question been adequately addressed?
+-   Is the systematic review methodology used in the review of sound quality?
+-   Is the research question specific or broad enough for your aim?
+-   How recently was the systematic review carried out?
+
+There is no need to start a systematic review if a recent, existing, high-quality SR answers your research question. If there is a relevant SR that is not up-to-date, consider contacting the original author team to discuss their plans for updating the review or a potential collaboration.
+
+For additional reading on how to assess the quality of a published systematic review, see the PRISMA guidelines and other appropriate guidelines on the [EQUATOR web-page](https://www.equator-network.org/){target="_blank"}.
+
+## Is one already in progress?
+
+Before you start, check that the review question you are interested in answering is not already being investigated by another research group.
+
+**Where can I find this information?**
+
+Check places where a systematic review protocol may be preregistered or published, e.g. [PROSPERO](https://www.crd.york.ac.uk/prospero/){target="_blank"}, <a href="https://osf.io/">OSF</a>, [SyRF](https://syrf.org.uk/){target="_blank"}, preprint servers in your field e.g. [bioRxiv](https://www.biorxiv.org/){target="_blank"} or [medRxiv](https://www.medrxiv.org/){target="_blank"}. See more below: [Register Your Protocol](#register-your-protocol){target="_blank"}.
+
+If you don't find anything, go ahead and start your SR.
+
+If you find someone is working on the same or a similar question, contact the research team. Ask about their aims, methods, and at what stage of the SR they are, and if you can collaborate to achieve the common aim.
+
+## Build your systematic review team
+
+A systematic review can take a long time, so ensure you have the adequate expertise and funding to complete the review. Get your colleagues to help out! And reach out to people outside of your immediate team for expert advice.
+
+-   **Librarians:** Librarians and information specialists can help with refining your search strategy. They will have insights into which bibliographic databases contain literature on the fields and topics you are interested in. Librarians can support you to identify sources for grey literature(e.g. thesis documents, technical reports, etc), and they will be able to support you to find full text versions of articles you want to include in your review, especially if they are not available with your institutional subscription.
+
+-   **Systematic Review Methodologists:** If you are new to the systematic review process, a methodologist will be able to help you plan and organise your review, give recommendations for software and tools, as well as meta-analysis support.
+
+-   **Statistician** You may require additional advice from a statistician if you plan to conduct a meta-analysis. If this is the case, it's good to get them involved as early on in the review process as possible.
+
+-   **Topic Experts:** Ensure you have researchers and other stakeholders with adequate topic knowledge in your team.
+
+-   **Project Managers:** Undertaking a systematic review requires effective project management. Ensure there is a clear and dedicated project leader who will be overseeing the project for the entire process. The project lead maintains the overview, which stage is the review at, and invites different members onto the team when necessary.
+
+### Collborating with your team
+
+Early on in the review process, decide a naming convention for documents and decide a place for storing all documents related to the review in shared location. You may need to go back to any stage in the review and revisit decisions or find information, so keep good records. Take thorough notes of decisions made along the SR process, any deviations from the protocol. Not only is this good practice and increases transparency, it can help to make sure all team members are on the same page.

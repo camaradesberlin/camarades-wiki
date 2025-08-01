@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "CAMARADES Systematic Review Wiki"
+  open-graph: true
+  description: A wiki website to support researchers in carrying out preclinical systematic review and meta-analysis, developed by CAMARADES Berlin.
+  image: "/logos/CAMARADESberlinLogo_small.png"
+  image-alt: logo of camarades berlin
+  navbar:
+    logo: "/logos/CAMARADESberlinLogo_small.png"
+    logo-alt: logo of camarades berlin
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - sidebar:Wiki 
+      - 14-workshops.qmd
+      - about.qmd
+    tools: 
+      - icon: github
+        href:  https://github.com/camaradesberlin/camarades-wiki/
+  sidebar:
+    - id: Wiki
+      style: "docked"
+#      background: light
+#      collapse-level: 2
+      contents: 
+        - wiki-content/01-intro.qmd
+        - wiki-content/02-srs-3rs.qmd
+        - wiki-content/03-b4ustart.qmd
+        - wiki-content/04-researchquestion.qmd
+        - wiki-content/05-protocol.qmd
+        - wiki-content/06-systematicsearch.qmd
+        - wiki-content/07-studyselection.qmd
+        - wiki-content/08-dataextraction.qmd
+        - wiki-content/09-qualityassessment.qmd
+        - wiki-content/10-metaanalysis.qmd
+        - wiki-content/11-tools.qmd
+        - wiki-content/12-publication.qmd
+        - wiki-content/13-resources.qmd
+        
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

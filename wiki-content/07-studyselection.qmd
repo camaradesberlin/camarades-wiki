@@ -1,0 +1,49 @@
+---
+title: "Study Selection"
+format: html
+---
+
+Once you have found articles that may be potentially relevant to your research question, you now need to assess each article for relevance against predefined criteria.
+
+If applicable, you may consider doing this in two stages:
+
+1.  Title or Title & Abstract Screening
+2.  Full text Screening
+
+## Inclusion & exclusion criteria
+
+Defining the inclusion and exclusion criteria sets the boundaries for your review.
+
+-   Inclusion criteria refer to everything a study must have to be included in your review.
+-   Exclusion criteria refer to factors that make a study ineligible for inclusion.
+
+It is important the criteria are predefined, *a priori*, and applied consistently across all studies considered for the review. To ensure this, it is common to do citation screening in duplicate, two independent reviews, with discussion or a third independent reviewer to reconcile any discrepancies.
+
+Commonly your inclusion and exclusion criteria are defined around:
+
+-   Type of study or study design
+-   Type of population (e.g. age, sex, disease model)
+-   Type of intervention (e.g. dosage, timing of intervention, frequency)
+-   Type of outcome Measures (e.g. parameters related to method of assessment or apparatus)
+
+Additional factors you may want to consider:
+
+-   Language restrictions
+-   Publication date restrictions
+-   Type of publication (e.g. conference abstracts, peer-reviewed)
+
+You may consider prioritising your inclusion and exclusion criteria based on what criteria you are likely to apply at title and abstract stage, and what criteria you can only apply after having read the full-text.
+
+## Apply your criteria
+
+Is a study included or excluded in your review? Is a study relevant, or not relevant, to your research question based on your pre-defined criteria?
+
+To ensure your inclusion and exclusion criteria are applied in a unbiased, uniform fashion, it is good practice to have at least 2 independent screeners apply the criteria. If there are discrepancies in your decisions, you may discuss the discrepancies until you reach consensus or invite a 3rd independent reviewer to reconcile any differences.
+
+## Tools for screening
+
+You can complete title and abstract screening & full text screening in [SyRF](https://syrf.org.uk/){target="_blank"}, the Systematic Review Facility, which is a free-to-use online platform to support your preclinical systematic review.
+
+SyRF randomly presents the order of articles to screeners and by default requires a consensus between multiple screeners.
+
+Other free-to-use platforms to perform citation screening include [Rayyan](https://rayyan.qcri.org/welcome){target="_blank"} and [SysRev](https://sysrev.com/){target="_blank"}.

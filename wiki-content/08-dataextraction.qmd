@@ -1,0 +1,43 @@
+---
+title: "Data Extraction"
+format: html
+---
+
+The data you extract from each included study should be pre-specificed in your systematic review protocol. It is best practice to extract data in duplicate, two independent reviewers, to prevent errors.
+
+## Study characteristics
+
+Study characteristics to extract from included articles may include:
+
+-   PICO information (e.g. age and sex of population, species and strain of animal, dose and timing of intervention, type and time of outcome assessment)
+-   Study Design information
+-   Study Quality information ([see below](09-qualityassessment.qmd){target="_blank"})
+-   Additional information (e.g. time between intervention and outcome assessment, any comorbidity information)
+
+## Quantitative data
+
+Extracting quantitative and numerical data from included studies is necessary to perform meta-analysis to pool the effect sizes from.
+
+Your outcomes of interest may be:
+
+-   **Dichotomous** (e.g. mortality, tumour presence) ![](figs/dichot-outcome.png){#id .class width="75%" height="75%"}
+
+-   **Continuous** (e.g. blood pressure, or weight loss) ![](figs/contin-outcome.png){#id .class width="75%" height="75%"}
+
+-   **Count Data** (e.g. number of events)
+
+Data about your outcomes may be provided in various formats including:
+
+-   In tables
+-   In text
+-   In graphs
+
+You may need to use tools such as [Adobe desktop ruler](https://helpx.adobe.com/acrobat/using/grids-guides-measurements-pdfs.html){target="_blank"} or [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/){target="_blank"} to extract numerical values (e.g. means and standard deviations (SD) or standard error of the mean (SEM) from graphs). Some studies may report values on a different scale. Be aware, you may need to convert these to a scale that is common across all studies (e.g. log scale conversion).
+
+In some cases it might not be clear if authors reported SEM or SD as a measure of variance. We recommend extracting the value as SEM as this is considered to be a more conservative approach from a meta-analysis perspective (assuming that the value of SD can only be larger).
+
+## Data extraction software
+
+As you are extracting these pieces of information you will want to store them in the same place for easier, later synthesis and analysis.
+
+We recommend using [SyRF](https://syrf.org.uk/){target="_blank"} the Systematic Review Facility to extract and store your data. It is a free-to-use online platform where you can create custom data extraction forms for your review. Flexible questions types and question settings, as well as online format allow for easy data extraction for you and your review team to simultaneous extract data from included papers. For more information see the [SyRF Website](https://syrf.org.uk/){target="_blank"} and the [SyRF Help Guide](https://help.syrf.org.uk/){target="_blank"} to set up your free review project.

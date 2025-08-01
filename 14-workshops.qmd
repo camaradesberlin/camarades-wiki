@@ -1,0 +1,66 @@
+---
+title: "Workshops"
+format: html
+---
+
+We offer a range of workshops on Systematic Review and Meta-Analysis of Animal Studies.
+
+**Introduction to Systematic Review & Meta-Analysis of Animal Studies** <br> Through a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies. For information on our next workshop and to register, please click here: [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"} <br> We have summarized the main points of the workshop in this [Cheat sheet](workshops/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}
+
+<br> **Protocol Development for Systematic Review of Animal Studies** <br> This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data. For more information, please click here: [Protocol Development for Systematic Review of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/protocol-development-for-systematic-review-of-animal-studies){target="_blank"}
+
+<br> **Critical Appraisal of Animal Studies** <br> This interactive practical workshop will explore study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments. For more information, please click here: [Critical Appraisal of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/critical-appraisal-of-animal-studies-practical-workshop){target="_blank"}
+
+## eLearning
+
+You can also learn about Systematic Review and Meta-Analysis of Animal Studies at your own pace by taking our eLearning course. Take a single module or multiple modules to suit your needs. Each module consists of a combination of self-paced presentations and interactive activities and quizzes, allowing you to go over the materials as many times as you need. Exercises and activites are designed to test your understanding of the materials covered.
+
+
+We currently have modules on the following topics:
+
+-   Introduction to Systematic Review & Meta-Analysis of Animal Studies
+
+-   Systematic Literature Searching
+
+-   Defining a research question
+
+-   Protocol Development
+
+-   Citation Screening & Eligibility Criteria
+
+-   Critical Appraisal of Animal Studies
+
+-   Data Extraction
+
+-   Meta-Analysis of Animal Studies
+
+
+::: callout-info
+[--\> Take me to the eLearning platform!](https://elearning.camarades.net){target="_blank"}
+:::
+
+<!-- For instructions on how to make a FREE user account, please see this step-by-step [instruction document here.](workshops/eLearning_course_account_guide.pdf) -->
+
+If you have any questions about the eLearning platform or encounter any technical difficulties, please contact us at [camarades.berlin\@charite.de](mailto:CAMARADES.berlin@charite.de)
+
+## Meta-Analysis Tutorial
+
+<br> We have created a web-based tutorial to complement the workshop: [Introduction to Systematic Review & Meta-Analysis of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){target="_blank"}
+
+The web-based app uses R programming language to work through a meta-analysis of animal data but you do not need any previous experience with R to complete the tutorial. <br>
+
+::: callout-info
+[\>\>\> Click here to launch the tutorial](https://camarades.shinyapps.io/R-MA-Tutorial/){target="_blank"}
+:::
+
+The tutorial uses examples data from the publication:
+
+<p>
+
+<a href="https://doi.org/10.1007/s12975-016-0489-z" target="_blank" rel="noopener noreferrer">
+
+McCann SK, Cramond F, Macleod MR *et al*. Systematic Review and Meta-Analysis of the Efficacy of Interleukin-1 Receptor Antagonist in Animal Models of Stroke: an Update. *Translational Stroke Research* 7, 395–406 (2016).
+
+</a>
+
+</p>

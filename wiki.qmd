@@ -1,0 +1,32 @@
+---
+title: "Wiki"
+format: html
+sidebar: Wiki
+    # contents: 
+    # - /wiki-content/01-intro.qmd
+    # - /wiki-content/02-srs-3rs.qmd
+    # - /wiki-content/03-b4ustart.qmd
+    # - /wiki-content/04-researchquestion.qmd
+    # - /wiki-content/05-protocol.qmd
+    # - /wiki-content/06-systematicsearch.qmd
+    # - /wiki-content/07-studyselection.qmd
+    # - /wiki-content/08-dataextraction.qmd
+    # - /wiki-content/09-qualityassessment.qmd
+    # - /wiki-content/10-metaanalysis.qmd
+    # - /wiki-content/11-tools.qmd
+    # - /wiki-content/12-publication.qmd
+    # - /wiki-content/13-resources.qmd
+    # - /wiki-content/14-workshop.qmd
+---
+
+Hello, Systematic Reviewers!
+
+Welcome to the CAMARADES Preclinical Systematic Review & Meta-Analysis Wiki.
+
+Find information, links, articles, and useful tools to guide you through your review.
+
+Navigate through the sections to find out more about what a preclinical systematic review is, what the steps are, and how to complete them.
+
+Use the table of contents bar on the left side of the screen to navigate along the steps of a systematic review.
+
+If you have questions about the resources, or would like to ask a question about your specific review, please get in touch: [Email us here](mailto:CAMARADES.berlin@charite.de)

@@ -1,0 +1,35 @@
+---
+title: "Research Question"
+format: html
+---
+
+All systematic reviews start with a strong, concise research question. This serves as the back-bone for a good search strategy, as it determines the structure and sequence for your literature searches.
+
+## PICO & PECO
+Commonly preclinical SR research questions follow a PICO or PECO stucture:
+
+-   **(P)opulation, (P)articipants, or (P)roblem:** What are the characteristics of the population or participants (species, sex, developmental stage, risk factors, or for human participants demographics, pre-existing conditions, etc)? What is the condition or disease of interest?
+-   **(I)ntervention or (E)xposure:** What is the intervention or exposure under consideration for this population?
+-   **(C)omparison:** What is the alternative to the intervention (e.g. placebo, different drug, surgery)?
+-   **(O)utcome:** What are the relevant outcomes (e.g. quality of life, change in clinical status, morbidity, adverse effects, complications)?
+
+There are other research question structures depending on your area or topic of interest, for example, diagnostic test reviews, and prognostic reviews. For more information, see this article on [Formulating Review Questions](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/9741/8144){target="_blank"}.
+
+## Stakeholders
+
+It is important that you engage stakeholders early on in the review phase to ensure the research question and findings from the review are relevant. Consider the following:
+
+-   Who will use the results of your systematic review?
+
+-   From their perspective, what are the relevant questions to ask?
+
+## Preclinical examples
+
+For reference, see examples of research questions for published reviews.
+
+*“What is the effect of antidepressants compared to vehicle or no treatment on infarct volume in animal models of ischaemic stroke?”*
+
+-   **P** - Animal models of ischaemic stroke
+-   **I** - Antidepressants
+-   **C** - Vehicle or no treatment
+-   **O** - Infarct volume

@@ -1,0 +1,56 @@
+---
+title: "Protocol"
+format: html
+---
+
+## What is a protocol and why have one?
+
+A systematic review protocol outlines why and how you are going to conduct your systematic review. It should include your research question, background and the systematic review methods that will be used, including plans for:
+
+-   search strategy
+-   inclusion and criteria
+-   data extraction
+-   quality assessment
+-   data synthesis strategy
+-   quantitative meta-analysis strategy (where applicable)
+
+Having a **pre-specified** protocol improves the methodological transparency of your systematic review and reduces the risk of introducing bias. Publishing your protocol allows others to locate reviews in progress and enables future replication. The process of putting together your protocol often involves communication between a number of key stakeholders, you may want to discuss it with an advisory group, external experts, or your funders.
+
+## Protocol templates
+
+We strongly recommend using a protocol template to ensure you have covered all the important information in your protocol. <br>
+
+**SYRCLE** (SYstematic Review Centre for Laboratory animal Experimentation) have developed a protocol template tailored to the preparation, registration and publication of systematic reviews of animal intervention studies. [See the template and publication here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ebm2.7){target="_blank"}.
+
+It may be useful to look through examples of previously published protocols from [PROSPERO for Animals](https://www.crd.york.ac.uk/prospero/#searchadvanced){target="_blank"} while you formulate your protocol. You can also use PROSPERO to check that no systematic reviews on your research question are currently underway. For examples of SYRCLE protocol templates, see the [SyRF Protocol Registry](https://syrf.org.uk/protocols/){target="_blank"} while you formulate your protocol. 
+**Please note that the SyRF Protocol Registry is no longer accepting new protocol submissions. Please use PROSPERO for Animals.**
+
+## Register your protocol
+
+Making the protocol for your systematic review available to the community has a number of benefits:
+
+-   it provides evidence that prespecified analyses were indeed prespecified; <br>
+-   allows others to comment on your approach; provides examples for others planning such reviews; <br>
+-   and can help you identify if other reviews in similar areas are already in progress.
+
+<br>
+
+We recommend reading the publication ["Navigating PROSPERO4animals: 10 top tips for efficient pre-registration of your animal systematic review protocol"](https://link.springer.com/article/10.1186/s12874-024-02146-0){target="_blank"} which is an article that aims to help authors write and register a detailed systematic review protocol on PROSPERO4animals.
+
+<br>
+
+**PROSPERO:** The Centre for Reviews and Dissemination at University of York now publish Preclinical Systematic Review Protocols. You can search published protocols by title, date, contact person or institution. For more information on registering at PROSPERO, see their [website here](https://www.crd.york.ac.uk/prospero/){target="_blank"}.
+
+**OSF:** You can preregister your systematic review project on the [Open Science Framework here](https://osf.io/prereg/){target="_blank"}.
+
+<br>
+
+### Your protocol & 3Rs
+
+We recommend that you include a statement in your protocol outlining how your research will impact the 3Rs (Replacement, Reduction and Refinement) in animal use in research.
+
+## Protocol Development Workshops
+
+CAMARADES Berlin offers a range of workshops on Systematic Review and Meta-Analysis of Animal Studies, including a workshop on protocol development.
+
+**Protocol Development for Systematic Review of Animal Studies** <br> This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data. For more information, please click here: [Protocol Development for Systematic Review of Animal Studies](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/protocol-development-for-systematic-review-of-animal-studies){target="_blank"}
