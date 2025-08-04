@@ -46,7 +46,7 @@ COReS is a project to build a community around preclinical evidence synthesis. T
 + Stay up-to-date with Community News via the newsletter. [Sign up to the newsletter.](http://eepurl.com/h4hsMv){target="_blank"}\
 + Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. [Make a free user account for the discussion forum here.](www.cores.zulipchat.com){target="_blank"}\
 + Follow the project on LinkedIn for regular update on education offers, talks, and project development. [Check out COReS on LinkedIn here.](https://www.linkedin.com/company/communities-for-open-research-synthesis/){target="_blank"}\
-<br> Find our more about joining the community on the [COReS Hub.](https://cores-hub.io/cores-join-the-community/){target="_blank"} ![](figs/cores-logo.png){#id .class width="80%"}
+<br> Find our more about joining the community on the [COReS Hub.](https://cores-hub.io/cores-join-the-community/){target="_blank"} ![](/logos/cores-logo.png){#id .class width="80%"}
 
 ## Our Team
 
@@ -71,9 +71,9 @@ This resource is supported by Charité 3Rs & VolkwagenStruftung.
 
 <center>
 
-![](figs/C3R_Screen_Farbe.jpg){.class width="20%"}
+![](/logos/C3R_Screen_Farbe.jpg){.class width="20%"}
 
-![](figs/Logo_Volkswagen.png){.class width="50%"}
+![](/logos/Logo_Volkswagen.png){.class width="50%"}
 
 </center>
 
@@ -81,6 +81,6 @@ For more information about 3Rs at Charité – Universitätsmedizin Berlin, visi
 
 <br> CAMARADES Berlin are located in the QUEST Center, Berlin Institute for Health
 
-<center>![](/figs/charite-BIHquest.jpg){.class width="30%"}</center>
+<center>![](/logos/charite-BIHquest.jpg){.class width="30%"}</center>
 
 <br> <br> For more information about CAMARADES in Edinburgh, [please click here.](https://www.ed.ac.uk/clinical-brain-sciences/research/camarades){target="_blank"}
