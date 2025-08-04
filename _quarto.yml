@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "CAMARADES Systematic Review Wiki"
+  google-analytics: "UA-290995124"
   open-graph: true
   description: A wiki website to support researchers in carrying out preclinical systematic review and meta-analysis, developed by CAMARADES Berlin.
   image: "/logos/CAMARADESberlinLogo_small.png"
@@ -39,6 +41,16 @@ website:
         - wiki-content/11-tools.qmd
         - wiki-content/12-publication.qmd
         - wiki-content/13-resources.qmd
+  page-footer: 
+    left: "This work is licensed under a Creative Commons Attribution 4.0 International License." 
+    center: "Website by CAMARADES Berlin" 
+    right: 
+      - icon: github
+        href: https://github.com/camaradesberlin/
+      - icon: envelope
+        href: mailto:camarades.berlin@charite.de
+    background: light
+    
         
 
 format:
