@@ -48,7 +48,7 @@ COReS is a project to build a community around preclinical evidence synthesis. T
 
 -   Stay up-to-date with Community News via the newsletter. [Sign up to the newsletter.](https://eepurl.com/h4hsMv){target="_blank"}
 
--   Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. [Make a free user account for the discussion forum here.](https://www.cores.zulipchat.com){target="_blank"}
+-   Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. [Make a free user account for the discussion forum here.](https://cores.zulipchat.com){target="_blank"}
 
 -   Follow the project on LinkedIn for regular update on education offers, talks, and project development. [Check out COReS on LinkedIn here.](https://www.linkedin.com/company/communities-for-open-research-synthesis/){target="_blank"}
 
