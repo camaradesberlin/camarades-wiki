@@ -5,6 +5,7 @@ project:
 website:
   title: "CAMARADES Systematic Review Wiki"
   google-analytics: "UA-290995124"
+  favicon: logos/favicon.ico
   open-graph: true
   description: A wiki website to support researchers in carrying out preclinical systematic review and meta-analysis, developed by CAMARADES Berlin.
   image: "/logos/CAMARADESberlinLogo_small.png"
