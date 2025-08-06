@@ -18,4 +18,4 @@ A SyRF is a free online platform to aid you in your systematic reviews and meta-
 -   [Borenstein et al., 2009. Introduction to Meta-Analysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470743386){target="_blank"}
 -   [Vesterinen et al, 2014. "Meta-analysis of data from animal studies: a practical guide." Journal of neuroscience methods](https://doi.org/10.1016/j.jneumeth.2013.09.010){target="_blank"}
 -   [Cochrane Handbook](https://training.cochrane.org/handbook/current){target="_blank"}
--   [Cheat sheet](CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}: We have summarized the main points of our Introduction to SR workshop in this cheat sheet, including links to relevant references and resources.
+-   [Cheat sheet](workshops/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}: We have summarized the main points of our Introduction to SR workshop in this cheat sheet, including links to relevant references and resources.

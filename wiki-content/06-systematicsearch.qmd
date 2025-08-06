@@ -52,12 +52,10 @@ Web of Science can also be used to search other databases including SciELO, KCI-
 ### Other sources & grey literature
 
 Other bibliographic databases include:
-
--   [Cochrane Central Register of Controlled Trials (CENTRAL)](https://www.cochranelibrary.com/central/about-central){target="_blank"}
 -   [Google Scholar](https://scholar.google.com/){target="_blank"}
 -   [Scopus](https://www.scopus.com/home.uri){target="_blank"}
--   [Cumulative Index to Nursing and Allied Health Literature (CINAHL)](https://www.ebscohost.com/nursing/products/cinahl-databases/cinahl-complete){target="_blank"}
 -   [PsycINFO](https://www.apa.org/pubs/databases/psycinfo){target="_blank"}
+-   [openGrey](https://opengrey.eu/){target="_blank"}
 
 Access may vary depending on institutional access. Document your search strategy so it is sufficiently reproducible.
 

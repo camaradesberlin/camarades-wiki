@@ -3,31 +3,26 @@ title: "CAMARADES Systematic Review Wiki"
 format: html
 ---
 
-### Plan, Execute, Publish: Your Preclinical Systematic Review Made Simple
+**Your Preclinical Systematic Review Made Simple**
 
-CAMARADES guides you step-by-step—from defining your question to extracting data.
+CAMARADES guides you step-by-step, from defining your question to extracting data.
 
-
-#### 🔍 What & Why? 
-What is a preclinical review? 
-
-[Learn more →](wiki-content/01-intro.qmd)
-
+![](/logos/COReS_SR_edu.jpg)
 
 #### ⚙️ Step-by-Step Guide 
-Follow protocol, search, screen, and analyze. 
-
-[Learn more →](wiki-content/03-b4ustart.qmd)
-
-
-#### 	📊Tools & Templates 
-Download forms, scripts, and checklists. 
-
-[Learn more →](wiki-content/11-tools.qmd)
-
-
+Follow the steps of the systematic review process from protocol development, systematic searching, citation screening, extraction and analysis. Get tips and resources along the way. 
 
 [Explore the Wiki](wiki-content/01-intro.qmd){.btn .btn-primary .btn-small}
+
+
+#### 	📊 Workshops & eLearning 
+Learn about preclinical systematic reviews and meta-analysis through free live workshops or learn at your own pace with our eLearning. 
+
+[Start learning today](/14-workshops.qmd){.btn .btn-primary .btn-small}
+
+
+
+
 ------------------------------------------------------------------------
 
 Got questions? [Email us](mailto:CAMARADES.berlin@charite.de).

@@ -42,11 +42,19 @@ The [ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilit
 
 ## Join the Systematic Review Community
 
-COReS is a project to build a community around preclinical evidence synthesis. The project aims to bring together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner. Join the community to improve the quality and value of preclinical research in biomedicine! <br> + Check out resources and practices for synthesisable animal research on the [COReS Hub.](www.cores-hub.io){target="_blank"}\
-+ Stay up-to-date with Community News via the newsletter. [Sign up to the newsletter.](http://eepurl.com/h4hsMv){target="_blank"}\
-+ Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. [Make a free user account for the discussion forum here.](www.cores.zulipchat.com){target="_blank"}\
-+ Follow the project on LinkedIn for regular update on education offers, talks, and project development. [Check out COReS on LinkedIn here.](https://www.linkedin.com/company/communities-for-open-research-synthesis/){target="_blank"}\
-<br> Find our more about joining the community on the [COReS Hub.](https://cores-hub.io/cores-join-the-community/){target="_blank"} ![](/logos/cores-logo.png){#id .class width="80%"}
+COReS is a project to build a community around preclinical evidence synthesis. The project aims to bring together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner. Join the community to improve the quality and value of preclinical research in biomedicine!
+
+-   Check out resources and practices for synthesisable animal research on the [COReS Hub.](https://www.cores-hub.io){target="_blank"}
+
+-   Stay up-to-date with Community News via the newsletter. [Sign up to the newsletter.](https://eepurl.com/h4hsMv){target="_blank"}
+
+-   Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. [Make a free user account for the discussion forum here.](https://www.cores.zulipchat.com){target="_blank"}
+
+-   Follow the project on LinkedIn for regular update on education offers, talks, and project development. [Check out COReS on LinkedIn here.](https://www.linkedin.com/company/communities-for-open-research-synthesis/){target="_blank"}
+
+-   Find our more about joining the community on the [COReS Hub.](https://cores-hub.io/cores-join-the-community/){target="_blank"}
+
+![](/logos/cores-logo.png){#id .class width="80%"}
 
 ## Our Team
 
@@ -77,7 +85,7 @@ This resource is supported by Charité 3Rs & VolkwagenStruftung.
 
 </center>
 
-For more information about 3Rs at Charité – Universitätsmedizin Berlin, visit the [Charité 3Rs Toolbox](https://charite3r.charite.de/en/charite_3r_toolbox/){target="_blank"}.
+For more information about 3Rs at Charité – Universitätsmedizin Berlin, visit the [Charité 3Rs Toolbox](https://charite3r.charite.de/en/3r_service/charite_3r_toolbox){target="_blank"}.
 
 <br> CAMARADES Berlin are located in the QUEST Center, Berlin Institute for Health
 

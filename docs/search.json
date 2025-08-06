@@ -181,7 +181,7 @@
     "href": "wiki-content/06-systematicsearch.html#selecting-databases",
     "title": "Systematic Search",
     "section": "Selecting databases",
-    "text": "Selecting databases\nBibliographic databases differ in their coverage of journals and indexing of articles, so to ensure your research is systematic, you will have to search multiple databases.\nWhich databases you search will depend on your research area and question. For preclinical research, typical databases include:\n\nPubMed\nEmbase\nWeb of Science\n\nA librarian or an expert in bibliographic databases will be able to help you identify other potential databases and construct database-specific search terms.\nOn top of electronic databases, you might want to use other methods to find relevant papers such as: scanning reference lists of relevant studies (both primary studies and reviews), hand searching key journals, contacting experts in the field, and searching additional relevant internet resources. Keep a record of alternative methods used and the data collected in a structured format.\n\nPubMed\nPubMed is a bibliographic database comprising of more than 30 million citations for biomedical literature from MEDLINE, life science journals, and online books.\nIt is a free resource that supports the search and retrieval of biomedical and life sciences literature with the aim of improving health, and is maintained by the National Center for Biotechnology Information (NCBI) at the US National Library of Medicine.\nLinks & Resources:\n\nThe PubMed Advanced Search Builder is a useful tool to build your search query.\nInformation on MeSH Headings.\n\n\n\nEmbase\nEmbase is a biomedical research database covering literature from 1947 to present day. It indexes over 32 million records, including MEDLINE titles, as well as articles from 2,900 journals unique to Embase.\nYou may access Embase directly or through Ovid depending on your library subscription.\nLinks & Resources:\n\nEmbase indexing and EmTree Headings\n\n\n\nWeb of Science\nWeb of Science is a publisher-independent citation database. The Web of Science Core Collection indexes scholarly journals, books, and proceedings in the sciences, social sciences, and arts and humanities and can be used to navigate the full citation network.\nWeb of Science can also be used to search other databases including SciELO, KCI-Korean Journal Database and Zoological Record.\n\n\nOther sources & grey literature\nOther bibliographic databases include:\n\nCochrane Central Register of Controlled Trials (CENTRAL)\nGoogle Scholar\nScopus\nCumulative Index to Nursing and Allied Health Literature (CINAHL)\nPsycINFO\n\nAccess may vary depending on institutional access. Document your search strategy so it is sufficiently reproducible.",
+    "text": "Selecting databases\nBibliographic databases differ in their coverage of journals and indexing of articles, so to ensure your research is systematic, you will have to search multiple databases.\nWhich databases you search will depend on your research area and question. For preclinical research, typical databases include:\n\nPubMed\nEmbase\nWeb of Science\n\nA librarian or an expert in bibliographic databases will be able to help you identify other potential databases and construct database-specific search terms.\nOn top of electronic databases, you might want to use other methods to find relevant papers such as: scanning reference lists of relevant studies (both primary studies and reviews), hand searching key journals, contacting experts in the field, and searching additional relevant internet resources. Keep a record of alternative methods used and the data collected in a structured format.\n\nPubMed\nPubMed is a bibliographic database comprising of more than 30 million citations for biomedical literature from MEDLINE, life science journals, and online books.\nIt is a free resource that supports the search and retrieval of biomedical and life sciences literature with the aim of improving health, and is maintained by the National Center for Biotechnology Information (NCBI) at the US National Library of Medicine.\nLinks & Resources:\n\nThe PubMed Advanced Search Builder is a useful tool to build your search query.\nInformation on MeSH Headings.\n\n\n\nEmbase\nEmbase is a biomedical research database covering literature from 1947 to present day. It indexes over 32 million records, including MEDLINE titles, as well as articles from 2,900 journals unique to Embase.\nYou may access Embase directly or through Ovid depending on your library subscription.\nLinks & Resources:\n\nEmbase indexing and EmTree Headings\n\n\n\nWeb of Science\nWeb of Science is a publisher-independent citation database. The Web of Science Core Collection indexes scholarly journals, books, and proceedings in the sciences, social sciences, and arts and humanities and can be used to navigate the full citation network.\nWeb of Science can also be used to search other databases including SciELO, KCI-Korean Journal Database and Zoological Record.\n\n\nOther sources & grey literature\nOther bibliographic databases include: - Google Scholar - Scopus - PsycINFO - openGrey\nAccess may vary depending on institutional access. Document your search strategy so it is sufficiently reproducible.",
     "crumbs": [
       "Systematic Search"
     ]
@@ -251,7 +251,7 @@
     "href": "wiki-content/04-researchquestion.html#pico-peco",
     "title": "Research Question",
     "section": "PICO & PECO",
-    "text": "PICO & PECO\nCommonly preclinical SR research questions follow a PICO or PECO stucture:\n\n(P)opulation, (P)articipants, or (P)roblem: What are the characteristics of the population or participants (species, sex, developmental stage, risk factors, or for human participants demographics, pre-existing conditions, etc)? What is the condition or disease of interest?\n(I)ntervention or (E)xposure: What is the intervention or exposure under consideration for this population?\n(C)omparison: What is the alternative to the intervention (e.g. placebo, different drug, surgery)?\n(O)utcome: What are the relevant outcomes (e.g. quality of life, change in clinical status, morbidity, adverse effects, complications)?\n\nThere are other research question structures depending on your area or topic of interest, for example, diagnostic test reviews, and prognostic reviews. For more information, see this article on Formulating Review Questions.",
+    "text": "PICO & PECO\nCommonly preclinical SR research questions follow a PICO or PECO stucture:\n\n(P)opulation or (P)roblem: What are the characteristics of the population (species, sex, developmental stage, risk factors or comorbidities)? What is the condition or disease of interest?\n(I)ntervention or (E)xposure: What is the intervention or exposure under consideration for this population?\n(C)omparison: What is the alternative to the intervention (e.g. placebo, different drug, surgery)?\n(O)utcome: What are the relevant outcomes (e.g. mortality, behaviour change, adverse effects, biomarker expression)?\n\nThere are other research question structures depending on your area or topic of interest, for example, diagnostic test reviews, and prognostic reviews. For more information, see this article on Formulating Review Questions.",
     "crumbs": [
       "Research Question"
     ]
@@ -301,21 +301,35 @@
     "href": "index.html",
     "title": "CAMARADES Systematic Review Wiki",
     "section": "",
-    "text": "CAMARADES guides you step-by-step—from defining your question to extracting data.\n\n\nWhat is a preclinical review?\nLearn more →\n\n\n\nFollow protocol, search, screen, and analyze.\nLearn more →\n\n\n\nDownload forms, scripts, and checklists.\nLearn more →"
-  },
-  {
-    "objectID": "index.html#explore-the-wiki",
-    "href": "index.html#explore-the-wiki",
-    "title": "CAMARADES Systematic Review Wiki",
-    "section": "Explore the Wiki",
-    "text": "Explore the Wiki\nGot questions? Email us."
+    "text": "Your Preclinical Systematic Review Made Simple\nCAMARADES guides you step-by-step, from defining your question to extracting data.\n\n\n⚙️ Step-by-Step Guide\nFollow the steps of the systematic review process from protocol development, systematic searching, citation screening, extraction and analysis. Get tips and resources along the way.\nExplore the Wiki\n\n\n📊 Workshops & eLearning\nLearn about preclinical systematic reviews and meta-analysis through free live workshops or learn at your own pace with our eLearning.\nStart learning today\n\nGot questions? Email us."
   },
   {
     "objectID": "14-workshops.html",
     "href": "14-workshops.html",
     "title": "Workshops",
     "section": "",
-    "text": "We offer a range of workshops on Systematic Review and Meta-Analysis of Animal Studies.\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies  Through a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies. For information on our next workshop and to register, please click here: Introduction to Systematic Review & Meta-Analysis of Animal Studies  We have summarized the main points of the workshop in this Cheat sheet\nProtocol Development for Systematic Review of Animal Studies  This workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data. For more information, please click here: Protocol Development for Systematic Review of Animal Studies\nCritical Appraisal of Animal Studies  This interactive practical workshop will explore study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments. For more information, please click here: Critical Appraisal of Animal Studies"
+    "text": "We offer a range of workshops on Systematic Review and Meta-Analysis of Animal Studies."
+  },
+  {
+    "objectID": "14-workshops.html#introduction-to-systematic-review-meta-analysis-of-animal-studies",
+    "href": "14-workshops.html#introduction-to-systematic-review-meta-analysis-of-animal-studies",
+    "title": "Workshops",
+    "section": "Introduction to Systematic Review & Meta-Analysis of Animal Studies",
+    "text": "Introduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies. For information on our next workshop and to register, please click here: Introduction to Systematic Review & Meta-Analysis of Animal Studies  We have summarized the main points of the workshop in this Cheat sheet"
+  },
+  {
+    "objectID": "14-workshops.html#protocol-development-for-systematic-review-of-animal-studies",
+    "href": "14-workshops.html#protocol-development-for-systematic-review-of-animal-studies",
+    "title": "Workshops",
+    "section": "Protocol Development for Systematic Review of Animal Studies",
+    "text": "Protocol Development for Systematic Review of Animal Studies\nThis workshop will cover the contents of a transparent and comprehensive preclinical systematic review protocol. It will cover the rationale behind registering your systematic review protocol and where to register. This workshop is aimed at researchers who already have a basic understanding of systematic reviews of animal data. For more information, please click here: Protocol Development for Systematic Review of Animal Studies"
+  },
+  {
+    "objectID": "14-workshops.html#critical-appraisal-of-animal-studies",
+    "href": "14-workshops.html#critical-appraisal-of-animal-studies",
+    "title": "Workshops",
+    "section": "Critical Appraisal of Animal Studies",
+    "text": "Critical Appraisal of Animal Studies\nThis interactive practical workshop will explore study quality and risks of bias, internal and external validity, in scientific publications of animal experiments. Participants will gain hands-on experience critically appraising published animal experiments. For more information, please click here: Critical Appraisal of Animal Studies"
   },
   {
     "objectID": "14-workshops.html#elearning",
@@ -336,7 +350,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "We have put together this Wiki Page to provide information and documents, links, and useful tools to guide your through your preclinical systematic review. These resources have been put together using many CC-BY-4.0 sources including; SyRF, and Cochrane Interactive Learning. We thank these organisations and teams for making their resources available, definitely check out their resources as well!\nThis resource was last updated on:\n[1] \"04 August, 2025\""
+    "text": "We have put together this Wiki Page to provide information and documents, links, and useful tools to guide your through your preclinical systematic review. These resources have been put together using many CC-BY-4.0 sources including; SyRF, and Cochrane Interactive Learning. We thank these organisations and teams for making their resources available, definitely check out their resources as well!\nThis resource was last updated on:\n[1] \"06 August, 2025\""
   },
   {
     "objectID": "about.html#to-cite-this-resource",
@@ -357,7 +371,7 @@
     "href": "about.html#join-the-systematic-review-community",
     "title": "About",
     "section": "Join the Systematic Review Community",
-    "text": "Join the Systematic Review Community\nCOReS is a project to build a community around preclinical evidence synthesis. The project aims to bring together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner. Join the community to improve the quality and value of preclinical research in biomedicine!  + Check out resources and practices for synthesisable animal research on the COReS Hub.\n+ Stay up-to-date with Community News via the newsletter. Sign up to the newsletter.\n+ Join the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. Make a free user account for the discussion forum here.\n+ Follow the project on LinkedIn for regular update on education offers, talks, and project development. Check out COReS on LinkedIn here.\n Find our more about joining the community on the COReS Hub."
+    "text": "Join the Systematic Review Community\nCOReS is a project to build a community around preclinical evidence synthesis. The project aims to bring together primary researchers and evidence synthesists to form communities and providing infrastructure and support systems to empower the community in the performance of systematic reviews in a collaborative manner. Join the community to improve the quality and value of preclinical research in biomedicine!\n\nCheck out resources and practices for synthesisable animal research on the COReS Hub.\nStay up-to-date with Community News via the newsletter. Sign up to the newsletter.\nJoin the discussion forum to share ideas, work collaboratively, and connect with researchers and methodologists. Make a free user account for the discussion forum here.\nFollow the project on LinkedIn for regular update on education offers, talks, and project development. Check out COReS on LinkedIn here.\nFind our more about joining the community on the COReS Hub."
   },
   {
     "objectID": "about.html#our-team",

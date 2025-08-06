@@ -8,10 +8,10 @@ All systematic reviews start with a strong, concise research question. This serv
 ## PICO & PECO
 Commonly preclinical SR research questions follow a PICO or PECO stucture:
 
--   **(P)opulation, (P)articipants, or (P)roblem:** What are the characteristics of the population or participants (species, sex, developmental stage, risk factors, or for human participants demographics, pre-existing conditions, etc)? What is the condition or disease of interest?
+-   **(P)opulation or (P)roblem:** What are the characteristics of the population (species, sex, developmental stage, risk factors or comorbidities)? What is the condition or disease of interest?
 -   **(I)ntervention or (E)xposure:** What is the intervention or exposure under consideration for this population?
 -   **(C)omparison:** What is the alternative to the intervention (e.g. placebo, different drug, surgery)?
--   **(O)utcome:** What are the relevant outcomes (e.g. quality of life, change in clinical status, morbidity, adverse effects, complications)?
+-   **(O)utcome:** What are the relevant outcomes (e.g. mortality, behaviour change, adverse effects, biomarker expression)?
 
 There are other research question structures depending on your area or topic of interest, for example, diagnostic test reviews, and prognostic reviews. For more information, see this article on [Formulating Review Questions](https://journals.library.ualberta.ca/eblip/index.php/EBLIP/article/view/9741/8144){target="_blank"}.
 
