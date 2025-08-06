@@ -23,6 +23,7 @@ Use RStudio to branch, edit, preview, render, and publish our Quarto site (serve
 
 ## 3. Make Your Changes
 
+For example:
 - Edit `.qmd` files in the **Source** pane  
 - Update `_quarto.yml` or `style.css`  
 - Add new images or data under `images/`, `data/`, etc.
